@@ -4,7 +4,7 @@
 
 Final-year CS undergrad building AI-native and full-stack products. Open to internship / full-time roles.
 
-<img src="runner.svg" width="100%"/>
+<img src="run-track-face.svg" width="100%"/>
 
 Mumbai, India · ranjan.mishra.dev@gmail.com · [LinkedIn](https://www.linkedin.com/in/im-ranjan/) · [LeetCode](https://leetcode.com/u/ranjanmishra_lc/)
 
