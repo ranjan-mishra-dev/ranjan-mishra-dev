@@ -1,16 +1,24 @@
-## Hi there 👋
+### Ranjan Mishra
 
-<!--
-**ranjan-mishra-dev/ranjan-mishra-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=A9A9A9&center=false&vCenter=true&width=500&lines=Building+AI-native+products;MERN+%2B+Machine+Learning;Open+to+internships+%2F+full-time)](https://git.io/typing-svg)
 
-Here are some ideas to get you started:
+Final-year CS undergrad building AI-native and full-stack products. Open to internship / full-time roles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Mumbai, India · ranjan.mishra.dev@gmail.com
+
+---
+
+**Currently building**
+
+- **DocuOps** — an enterprise knowledge retrieval & assistance platform (RAG), not just another "chat with PDF" app
+- **Curriculum Studio AI** — Notion-style curriculum creation engine with automated generation from PDF uploads
+
+---
+
+**Stack**
+
+`JavaScript` `Python` `React` `Node.js` `Express` `MongoDB` `Zod` `Langchain`
+
+---
+
+<sub>Building in public · [github.com/ranjan-mishra-dev](https://github.com/ranjan-mishra-dev)</sub>
