@@ -21,8 +21,6 @@ Mumbai, India · ranjan.mishra.dev@gmail.com · [LinkedIn](https://www.linkedin.
 
 `JavaScript` `Java` `Python` `React` `Node.js` `Express` `MongoDB` `Zod` `AWS` `Fast Api` `PostgreSQL`
 
-**Ai**
-
 `LangChain` `RAG` `Hugging Face` `FAISS` `ChromaDB` `Pydantic` `FastAPI` `PineCone`
 
 ---
